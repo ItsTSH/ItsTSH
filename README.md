@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Tejinder Singh Hunjan**
+# 👋 Hey, I'm Tejinder Singh Hunjan
 
 I'm a final year Computer Engineering student deeply passionate about **Data Science** and **Machine Learning**. My journey started with solving practical problems using Python and has gradually expanded into more advanced areas like **ML Engineering**, **AI Agents**, **Reinforcement Learning**, and **LLMs**.
 
