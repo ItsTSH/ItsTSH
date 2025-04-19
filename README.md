@@ -59,6 +59,6 @@ An intelligent system that predicts if a customer will stop using a product/serv
 ## 📬 Let's Connect
 
 <!-- - 🌐 Portfolio: Coming soon! -->
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/tejinder-singh-hunjan-b23619259/)])
+- 💼 [LinkedIn](https://www.linkedin.com/in/tejinder-singh-hunjan-b23619259/)
 - 📧 tejindersingh0784@gmail.com
 <!--- 📄 [Resume](link-to-resume) -->
