@@ -50,6 +50,8 @@ An intelligent system that predicts if a customer will stop using a product/serv
 - Reinforcement Learning fundamentals and algorithm implementations  
 - AI agents that combine LLMs with environment interaction  
 - Developing a mini-framework for reproducible ML workflows
+- Fullstack development on both desktop and web
+- Making production level projects and deploying them
 
 ---
 
