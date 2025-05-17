@@ -24,6 +24,8 @@ I'm a third year Computer Engineering student deeply passionate about **Data Sci
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+---
+
 ## 📈 Highlight Project
 
 ### 🧠 [Customer Churn Prediction System]([https://github.com/yourusername/churn-predictor](https://github.com/ItsTSH/Customer-Churn-Prediction))
