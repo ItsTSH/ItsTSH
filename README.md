@@ -35,22 +35,6 @@ An intelligent system that predicts if a customer will stop using a product/serv
 - SHAP analysis for explainability  
 - Business insights through interactive visualizations
 
-**Evaluation Metrics:**
-- MSE: `0.0450`  
-- RMSE: `0.2120`  
-- MAE: `0.1292`  
-- R² Score: `0.8168`
-
----
-
-## 🚀 Currently Exploring
-
-- Building ML models from scratch for deeper understanding  
-- Reinforcement Learning fundamentals and algorithm implementations  
-- AI agents that combine LLMs with environment interaction  
-- Developing a mini-framework for reproducible ML workflows
-- Fullstack development on both desktop and web
-
 ---
 
 ## 📬 Let's Connect
